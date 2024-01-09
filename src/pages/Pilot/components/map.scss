@@ -1,0 +1,10 @@
+.map-container{
+    // width: 100%;
+    height: 45vh;
+    .ant-card-body{
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
